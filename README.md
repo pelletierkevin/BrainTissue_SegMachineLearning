@@ -4,6 +4,8 @@ https://github.com/BrainSegmentation/tissue-parts-detection
 # Tissue Part Detection
 
 Detecting brain tissue and magnet parts using [Mask R-CNN](https://github.com/matterport/Mask_RCNN). 
+This Machine Learning project was done in collaboration with the Center for Interdisciplinary Electron Microscopy
+(CIME) Lab at EPFL. We applied our knowledge to solve a practical real-world problem that involved the implementation of complex machine learning models for image segmentation and feature detection.
 
 ## Getting Started
 
